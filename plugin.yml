@@ -1,0 +1,5 @@
+name: DamageMat
+version: '2.0'
+main: ru.merkii.damagemat.DamageMain
+authors: [ Merkii ]
+website: vk.com/lima_2005
