@@ -12,6 +12,6 @@ public class DamageMain extends JavaPlugin {
 		instance = this;
 	}
 	public static DamageMain getInstance() {
-		return DamageMain.instance;
+		return instance;
 	}
 }
